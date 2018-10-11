@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=K2D:100,400,600&amp;subset=latin-ext');
+
+html{
+  font-family: 'K2D', sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-variant: normal;
+  font: 'K2D', sans-serif;
+}
+
+.top_nav_bar{
+  font-family: 'K2D', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-variant: normal;
+  font: 'K2D', sans-serif;
+  font-size: 1.05em;
+  list-style: none;
+  color: #333eee;
+  text-decoration: none;
+}
